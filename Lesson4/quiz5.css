@@ -1,0 +1,44 @@
+.content-box
+{
+
+
+background-color: #cdf5bb; 
+width: 600px;
+height:300px;
+border-top: 3px solid black;
+border-left: 3px dashed red;
+border-right: 3px dashed purple;
+border-bottom: 5px dotted aqua;
+margin-top: 40px;
+margin-bottom: 40px;
+margin-left:auto;
+margin-right:auto;
+padding: 5px 20px 10px 20px;
+
+}
+
+ h1
+{
+    color: rgb(90,4,4);
+    text-align: center;
+    font-size: 3.0em;
+    font-family: Arial, Helvetica, sans-serif; 
+
+}
+
+
+
+.close-button
+{
+    position: absolute; 
+    top:35px; 
+    right:450px;
+    background-color: salmon;
+    
+
+}
+
+.special-text {font-weight: bold;}
+
+.content-box.special-text {display:none;}
+
